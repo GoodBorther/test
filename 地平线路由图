@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2020-10-16T07:21:06.781Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ohpi-rVF-bGbB374-WOB" version="13.6.9" type="github">
+  <diagram id="ZZpDJPA47u_Lh0G6jyGQ" name="Page-1">
+    <mxGraphModel dx="1422" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RC-ddqpVYvgRPKDPzZmL-2" target="RC-ddqpVYvgRPKDPzZmL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-2" value="南京" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="300" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RC-ddqpVYvgRPKDPzZmL-3" target="RC-ddqpVYvgRPKDPzZmL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-3" value="合肥" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="300" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="RC-ddqpVYvgRPKDPzZmL-4" target="RC-ddqpVYvgRPKDPzZmL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RC-ddqpVYvgRPKDPzZmL-4" target="RC-ddqpVYvgRPKDPzZmL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-4" value="上海" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="150" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RC-ddqpVYvgRPKDPzZmL-6" target="RC-ddqpVYvgRPKDPzZmL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-6" value="徐州" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="460" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-7" value="北京" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="770" y="575" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RC-ddqpVYvgRPKDPzZmL-8" target="RC-ddqpVYvgRPKDPzZmL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-8" value="武汉" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="460" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-19" value="备线" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.4;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RC-ddqpVYvgRPKDPzZmL-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="802" y="652" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-9" value="石家庄" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="610" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RC-ddqpVYvgRPKDPzZmL-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-27" value="主线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RC-ddqpVYvgRPKDPzZmL-26">
+          <mxGeometry x="-0.224" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC-ddqpVYvgRPKDPzZmL-22" value="天津" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="610" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
