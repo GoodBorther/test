@@ -42,4 +42,4 @@ def str3float(s):
 			x = (list(e))
 			v = reduce(fn,x)
 	return (v/w)
-print (str3float('123.456'))
+print (str3float('1.234'))
