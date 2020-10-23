@@ -1,0 +1,17 @@
+#!/usr/bin/python3
+#-*- conding: utf-8 -*-
+class Screen(object):
+    @property
+    def meng(self):
+        return self._width
+    @meng.setter
+    def meng(self,value):
+        self._width = value
+    @property
+    def resolution(self):
+        return 123456
+qaq = Screen()
+qaq.width = 120
+print (qaq.width,qaq.resolution)
+
+
