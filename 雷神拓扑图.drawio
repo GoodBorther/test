@@ -1,1 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T09:56:52.397Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="14.4.7" etag="5YBWzm7OA6QJRog7RYTF" type="github"><diagram id="1b1gdbH2hWXCBLBFwGmt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-14T10:55:21.279Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="v_qBuEkPIX0d1x-UrhsR" version="14.4.7" type="github">
+  <diagram id="1b1gdbH2hWXCBLBFwGmt" name="第 1 页">
+    <mxGraphModel dx="2249" dy="1973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-1" value="&lt;a href=&quot;http://pms.syscloud.cn:8001/dcim/sites/kor___gasan/&quot; style=&quot;box-sizing: border-box ; margin: 0px ; color: rgb(51 , 122 , 183) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px&quot;&gt;KOR_韩国_首尔_ Gasan&lt;/a&gt;" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="220" y="245" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-3" value="华为云" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="610" y="245" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-4" value="CNIX" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/support-headset-128.png" vertex="1" parent="1">
+          <mxGeometry x="400" y="245" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-5" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldXz7qVdnaQmS-XF6vvf-1" target="ldXz7qVdnaQmS-XF6vvf-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="490" as="sourcePoint" />
+            <mxPoint x="420" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-7" value="vlan1512" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldXz7qVdnaQmS-XF6vvf-5">
+          <mxGeometry x="-0.52" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-6" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ldXz7qVdnaQmS-XF6vvf-4" target="ldXz7qVdnaQmS-XF6vvf-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="460" as="sourcePoint" />
+            <mxPoint x="520" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-8" value="韩国本地线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="310" y="295" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-9" value="中韩线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="285" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-12" value="internet" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="-217.54" y="245" width="115.08" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-14" value="ip信息：&lt;br&gt;&lt;div&gt;122.10.124.130&lt;/div&gt;&lt;div&gt;122.10.124.132-170&lt;/div&gt;&lt;div&gt;122.10.124.172-211&lt;br&gt;121.78.137.128/28;121.78.137.144/30&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-280.00000000000006" y="340" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-15" value="" style="endArrow=none;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldXz7qVdnaQmS-XF6vvf-18" target="ldXz7qVdnaQmS-XF6vvf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="350" as="sourcePoint" />
+            <mxPoint x="200" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-16" value="" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldXz7qVdnaQmS-XF6vvf-17" target="ldXz7qVdnaQmS-XF6vvf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="500" as="sourcePoint" />
+            <mxPoint x="230" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-17" value="leigod-nat-server-1" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.nat_gateway;" vertex="1" parent="1">
+          <mxGeometry x="120" y="138.57" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-18" value="leigod-nat-server-2" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.nat_gateway;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-19" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ldXz7qVdnaQmS-XF6vvf-12" target="ldXz7qVdnaQmS-XF6vvf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="240" as="sourcePoint" />
+            <mxPoint x="-40" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-20" value="vlan1528" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldXz7qVdnaQmS-XF6vvf-19">
+          <mxGeometry x="0.1933" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-21" value="" style="endArrow=none;html=1;entryX=-0.045;entryY=0.916;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ldXz7qVdnaQmS-XF6vvf-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="140" as="sourcePoint" />
+            <mxPoint x="226.01999999999998" y="21.97011999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-23" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldXz7qVdnaQmS-XF6vvf-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="130" as="sourcePoint" />
+            <mxPoint x="265.61287929952096" y="16.962376940060494" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ldXz7qVdnaQmS-XF6vvf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="200" as="sourcePoint" />
+            <mxPoint x="250" y="28.570000000000164" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-28" value="韩国互联云" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="190" y="-70" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-29" value="廊桥公网" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="295" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
