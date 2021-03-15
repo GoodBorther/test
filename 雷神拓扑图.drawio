@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T10:55:21.279Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="v_qBuEkPIX0d1x-UrhsR" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T01:48:59.142Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ugOCvZGVCJ5pHhPCXjk5" version="14.4.7" type="github">
   <diagram id="1b1gdbH2hWXCBLBFwGmt" name="第 1 页">
     <mxGraphModel dx="2249" dy="1973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,8 +30,8 @@
             <mxPoint x="520" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ldXz7qVdnaQmS-XF6vvf-8" value="韩国本地线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="310" y="295" width="80" height="20" as="geometry" />
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-8" value="韩国本地跳线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="305" y="295" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ldXz7qVdnaQmS-XF6vvf-9" value="中韩线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="285" width="50" height="20" as="geometry" />
@@ -94,6 +94,32 @@
         </mxCell>
         <mxCell id="ldXz7qVdnaQmS-XF6vvf-29" value="廊桥公网" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-10" y="295" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-30" value="华为机柜" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server_rack;" vertex="1" parent="1">
+          <mxGeometry x="205" y="450" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-31" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ldXz7qVdnaQmS-XF6vvf-30" target="ldXz7qVdnaQmS-XF6vvf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="450" as="sourcePoint" />
+            <mxPoint x="370" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-34" value="vlan1600" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ldXz7qVdnaQmS-XF6vvf-31">
+          <mxGeometry x="-0.1556" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-32" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ldXz7qVdnaQmS-XF6vvf-30" target="ldXz7qVdnaQmS-XF6vvf-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="500" as="sourcePoint" />
+            <mxPoint x="670" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="665" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ldXz7qVdnaQmS-XF6vvf-35" value="华为线路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="590" y="450" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
